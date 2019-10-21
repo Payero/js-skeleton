@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/kevin-k/skeleton#readme",
   "devDependencies": {
-    "eslint": "^1.10.3",
+    "eslint": "^6.5.1",
     "eslint-config-airbnb": "^4.0.0",
     "eslint-plugin-react": "^3.16.1",
     "grunt": "^0.4.5",
